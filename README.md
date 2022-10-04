@@ -1,5 +1,5 @@
 # ClimateChange-Dashboard
-As we all know Climate change has impacted many parts of the world and disturbed the Sustainability of Mother Earth so we ( Abrahdeep Chakraborty, Rohit . & me ) thought to make a project on Climate change using Power BI and MS excel to show that it is impacting us in a big way. It is also impacting 17 Sustainable development goals of the United Nations and their quest toward Sustainability.
+As we all know Climate change has impacted many parts of the world and disturbed the Sustainability of Mother Earth so I thought to make a project on Climate change using Power BI and MS excel to show that it is impacting us in a big way. It is also impacting 17 Sustainable development goals of the United Nations and their quest toward Sustainability.
 
 We the students of Goa Institute of Management (GIM) are very concerned about Sustainability and this is a small step from us in form of the Climate Action Dashboard using Power BI in the direction of Sustainability.
 
